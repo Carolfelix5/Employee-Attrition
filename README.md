@@ -13,5 +13,5 @@ Employee attrition is a critical concern for organizations. Losing skilled emplo
 - Jupyter Notebook
 - Pandas, NumPy, Matplotlib, Seaborn (for data analysis and visualization)
 - Scikit-learn (for machine learning)
-- Other relevant libraries as needed
+
 
